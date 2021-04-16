@@ -1,8 +1,8 @@
-//package com.codeforce;
+package com.codeforce;
 
 import java.util.Scanner;
 
-public class YoungPhysicist {
+public class StoneTables {
     Scanner sc = new Scanner(System.in);
 
     public void Solve(){
@@ -23,7 +23,7 @@ public class YoungPhysicist {
     }
 
     public static void main(String[] args){
-        YoungPhysicist y = new YoungPhysicist();
+        StoneTables y = new StoneTables();
 
         y.Solve();
     }
